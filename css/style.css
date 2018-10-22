@@ -1,0 +1,46 @@
+.box {
+    background: #007bff;
+    height: 105px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.boxes {
+    background: #26baee;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.box-body {
+    background: #007bff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 200px;
+}
+
+.boxes-body {
+    background: #26baee;
+    height: 135px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.box4sidebar {
+    background: #007bff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 200px;}
+
+.boxes-sidebar {
+    background: #26baee;
+    height: 135px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.footer-box {
+    background: #007bff;
+    height: 50px;
+}
